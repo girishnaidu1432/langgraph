@@ -10,5 +10,4 @@ langchain-community
 typing
 datetime
 PyPDF2
-io
 easyocr
