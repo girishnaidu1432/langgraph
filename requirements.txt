@@ -1,0 +1,8 @@
+streamlit
+beautifulsoup4
+requests
+numpy
+pandas
+openai==0.28
+langchain
+langgraph
