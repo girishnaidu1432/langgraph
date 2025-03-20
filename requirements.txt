@@ -6,3 +6,5 @@ pandas
 openai==0.28
 langchain
 langgraph
+langchain-community
+typing
