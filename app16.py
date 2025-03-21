@@ -32,7 +32,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("📊 Stock Analysis with LangGraph & GenAI - Human-in-the-Loop")
+st.title("📊 Stock Analysis with LangGraph & GenAI")
 
 # ✅ State Schema Definition
 class StockState(TypedDict):
